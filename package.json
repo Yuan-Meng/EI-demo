@@ -1,0 +1,8 @@
+{
+  "scripts": {
+    "build": "cp -R . ../public && mv ../public public"
+  },
+  "keywords": [],
+  "name": "ei-demo",
+  "description": "3 lights"
+}
